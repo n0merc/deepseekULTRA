@@ -10,7 +10,7 @@ DEEPSEEK-ULTRA is a professional, OS-integrated intelligence system designed by 
 ## 📽️ Demo Video
 Check out the full capabilities of DeepSeek-Ultra in action:
 
-> ⚠️ **[INSERT YOUR VIDEO LINK HERE]**
+> ⚠️ 
 > *Watch how the AI heals its own code and performs deep web research in real-time.*
 
 ---
