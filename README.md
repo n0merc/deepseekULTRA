@@ -13,6 +13,7 @@ Check out the full capabilities of DeepSeek-Ultra in action:
 > ⚠️ 
 > *Watch how the AI heals its own code and performs deep web research in real-time.*
 
+https://github.com/user-attachments/assets/455c661f-3d4c-4a9b-b301-7ffe66a833de
 ---
 
 ## 🛠️ How to Install (Step-by-Step)
