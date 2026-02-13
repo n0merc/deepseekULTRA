@@ -40,7 +40,7 @@ Tavily Search API Key: tavily.com
 # 🚀 How to Run the System
 Navigate to your project folder and execute:
 
-python ultra.py
+python deepseekULTRA.py
 The Startup Process:
 Neural Link: On the first run, it will prompt for your API keys.
 
