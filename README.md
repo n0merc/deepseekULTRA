@@ -44,6 +44,7 @@ Neural Link: On the first run, it will prompt for your API keys.
 
 Persistent Memory: It automatically restores context from ultra_memory.json.
 # 🎮 Core Features
+
 # 🧠 1. Persistent Memory
 The AI learns and retains information across sessions.
 
@@ -85,7 +86,7 @@ Reset         clear memory             Deletes neural memory file
 Exit          exit                     Safely saves and closes the link.
 ```
 
-⚠️ Safety & Disclaimer
+# ⚠️ Safety & Disclaimer
 This tool is for educational and security research purposes only. Use it responsibly as it has direct OS-level access.
 
-Developed by: n0merc
+# Developed by: n0merc
