@@ -35,7 +35,7 @@ DeepSeek API Key: platform.deepseek.com
 
 Tavily Search API Key: tavily.com
 ```
-🚀 How to Run the System
+# 🚀 How to Run the System
 Navigate to your project folder and execute:
 
 python ultra.py
@@ -43,36 +43,36 @@ The Startup Process:
 Neural Link: On the first run, it will prompt for your API keys.
 
 Persistent Memory: It automatically restores context from ultra_memory.json.
-🎮 Core Features
-🧠 1. Persistent Memory
+# 🎮 Core Features
+# 🧠 1. Persistent Memory
 The AI learns and retains information across sessions.
 
 Usage: No special command needed.
 
 Reset: Type clear memory to wipe the neural cache.
 
-🛰️ 2. Deep Web Research (-web)
+# 🛰️ 2. Deep Web Research (-web)
 Access live data from the internet (up to 2026).
 
 Command: -web <your query>
 
 Logic: Crawls multiple sources and synthesizes a real-time report.
 
-🤖 3. Auto-Pilot Mode (-autopilot)
+# 🤖 3. Auto-Pilot Mode (-autopilot)
 Perform autonomous "File Surgery" on entire projects.
 
 Command: -autopilot <folder_path>
 
 Workflow: Analyzes and updates multiple files simultaneously.
 
-🛠️ 4. Self-Healing Execution
+# 🛠️ 4. Self-Healing Execution
 The AI detects and fixes its own coding errors.
 
 Action: Prompted as Execute with Healing? (y/n).
 
 Healing: Captures errors, re-thinks the logic, and fixes the code automatically.
 
-💻 5. Direct OS Access (!cmd)
+# 💻 5. Direct OS Access (!cmd)
 Run terminal commands directly.
 Command: !cmd <command> (e.g., !cmd ipconfig)
 ```
