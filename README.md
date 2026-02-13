@@ -22,14 +22,16 @@ Follow these steps to get the system online:
 ### 1. Install Python
 Ensure you have **Python 3.8** or higher installed. Check with:
 ```bash
+
 python --version
+
 2. Install Dependencies
 Run this command to install required libraries:
 
 Bash
 pip install openai requests
 3. Obtain API Keys
-You will need хоёр keys to unlock full functionality:
+You will need two keys to unlock full functionality:
 
 DeepSeek API Key: platform.deepseek.com
 
