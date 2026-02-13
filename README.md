@@ -34,7 +34,7 @@ You will need хоёр keys to unlock full functionality:
 DeepSeek API Key: platform.deepseek.com
 
 Tavily Search API Key: tavily.com
-
+```
 🚀 How to Run the System
 Navigate to your project folder and execute:
 
@@ -74,8 +74,8 @@ Healing: Captures errors, re-thinks the logic, and fixes the code automatically.
 
 💻 5. Direct OS Access (!cmd)
 Run terminal commands directly.
-
 Command: !cmd <command> (e.g., !cmd ipconfig)
+```
 📊 Command Reference
 mode          command                  Function
 search        -web <query>             Live Web intelligence
@@ -89,4 +89,3 @@ Exit          exit                     Safely saves and closes the link.
 This tool is for educational and security research purposes only. Use it responsibly as it has direct OS-level access.
 
 Developed by: n0merc
-
