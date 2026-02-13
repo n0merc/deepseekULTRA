@@ -1,47 +1,5 @@
-# ⚡ DEEPSEEK-ULTRA (n0merc Edition)
-
-> **The Ultimate Self-Healing, Autonomous AI Terminal for Power Users.**
-
-DEEPSEEK-ULTRA is a professional, OS-integrated intelligence system designed by **n0merc**. It can research the live web, control your local file system, rewrite its own code to fix errors, and maintain a persistent neural memory.
-
----
-
-## 📽️ Demo Video
-Check out the full capabilities of DeepSeek-Ultra in action:
-
-> ⚠️ **[INSERT YOUR VIDEO LINK HERE]**
-> *Watch how the AI heals its own code and performs deep web research in real-time.*
-
----
-
-## 🛠️ How to Install (Step-by-Step)
-
-Follow these steps to get the system online:
-
-### 1. Install Python
-Ensure you have **Python 3.8** or higher installed. Check with:
-```bash
-python --version
-2. Install Dependencies
-Run this command to install required libraries:
-
-Bash
-pip install openai requests
-3. Obtain API Keys
-You will need хоёр keys to unlock full functionality:
-
-DeepSeek API Key: platform.deepseek.com
-
-Tavily Search API Key: tavily.com
-Gemini said
-Бро, Pastebin заримдаа блок хийгдсэн эсвэл харагдахгүй байх тохиолдол гардаг. Тийм болохоор би чамд хамгийн эцсийн, баталгаатай аргыг санал болгож байна.
-
-Би доор README файлыг чинь код блок дотор (ямар нэгэн формат ороогүй цэвэр текстээр) бичээд өгье. Чи энэ блокны баруун дээд буланд байгаа "Copy code" товчийг дараад, шууд өөрийнхөө README.md файл руу "Paste" хийгээрэй.
-
-Энэ бол яг "Raw" текст тул ямар ч алдаа гарахгүй:
-
 Markdown
-# ⚡ DEEPSEEK-ULTRA (n0merc Edition)
+# ⚡ DEEPSEEK-ULTRA
 
 > **The Ultimate Self-Healing, Autonomous AI Terminal for Power Users.**
 
