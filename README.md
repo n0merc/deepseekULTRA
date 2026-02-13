@@ -2,14 +2,12 @@
 
 > **The Ultimate Self-Healing, Autonomous AI Terminal for Power Users.**
 
-DEEPSEEK-ULTRA is not just another chatbot. It is a persistent, OS-integrated intelligence system designed by **n0merc**. It can research the live web, control your local file system, rewrite its own code to fix errors, and remember every interaction you've ever had.
+DEEPSEEK-ULTRA is a professional, OS-integrated intelligence system designed by **n0merc**. It can research the live web, control your local file system, rewrite its own code to fix errors, and maintain a persistent neural memory.
 
 ---
 
 ## 📽️ Demo Video
 Check out the full capabilities of DeepSeek-Ultra in action:
-
-
 
 > ⚠️ **[INSERT YOUR VIDEO LINK HERE]**
 > *Watch how the AI heals its own code and performs deep web research in real-time.*
@@ -21,14 +19,116 @@ Check out the full capabilities of DeepSeek-Ultra in action:
 Follow these steps to get the system online:
 
 ### 1. Install Python
-Ensure you have **Python 3.8** or higher installed on your system. You can check by typing `python --version` in your terminal.
-
-### 2. Clone or Save the Script
-Save the main code as `ultra.py` in a new folder.
-
-### 3. Install Dependencies
-Open your terminal/command prompt and run the following command to install the required libraries:
+Ensure you have **Python 3.8** or higher installed. Check with:
 ```bash
+python --version
+2. Install Dependencies
+Run this command to install required libraries:
+
+Bash
 pip install openai requests
-4. Obtain API KeysYou will need two keys for the system to function at 100%:DeepSeek API Key: Get it at platform.deepseek.comTavily Search API Key: Get it at tavily.com🚀 How to Run the SystemSimply navigate to your folder and run:Bashpython ultra.py
-The Startup Process:Neural Link: On the first run, it will ask for your API keys. Once entered, the "Neural Link" is established.Persistent Memory: It will automatically look for ultra_memory.json to restore your previous session.🎮 Core Features & How to Use Them🧠 1. Persistent MemoryThe AI learns from you. It stores your name, preferences, and project details.Usage: No special command needed. Just talk.Command: Type clear memory if you want the AI to "forget" everything and start fresh.🛰️ 2. Deep Web Research (-web)Use this when you need data that happened today or deep technical research from the live internet.Example: -web Latest zero-day vulnerabilities in Linux 2026Logic: The system crawls the web, reads multiple sources, and gives you a synthesized intelligence report.🤖 3. Auto-Pilot Mode (-autopilot)Need to fix a whole project or upgrade a folder of scripts?Command: -autopilot ./my_project_folderWhat happens: The AI reads all files, understands the code, and asks you for permission to "Overwrite" and improve them. Perfect for "File Surgery."🛠️ 4. Self-Healing ExecutionThis is the "God Mode" of coding.Scenario: You ask the AI to write a script.Action: It asks Execute with Healing? (y/n).Healing: If the code fails, the AI sees the error, thinks about a solution, fixes the code, and runs it again automatically until it works perfectly.💻 5. Direct System Access (!cmd)Run any terminal command without leaving the AI environment.Example: !cmd ipconfig or !cmd pip list📊 Command Reference TableModeCommand SyntaxFunctionSearch-web <your query>Deep web research with live 2026 data.Auto-Pilot-autopilot <path>Analyze and rewrite entire directories.Shell!cmd <command>Direct OS shell command execution.Resetclear memoryWipes the neural memory file.Exitexit or quitSafely saves memory and closes the link.⚠️ Safety & DisclaimerDeepSeek-Ultra is a high-level tool with the ability to modify files and execute system commands. It is designed for security researchers, developers, and educational use. Always review the AI's suggestions before hitting 'y' to overwrite files.Developed by: n0mercStatus: ULTRA-GOD MODE ACTIVE
+3. Obtain API Keys
+You will need хоёр keys to unlock full functionality:
+
+DeepSeek API Key: platform.deepseek.com
+
+Tavily Search API Key: tavily.com
+Gemini said
+Бро, Pastebin заримдаа блок хийгдсэн эсвэл харагдахгүй байх тохиолдол гардаг. Тийм болохоор би чамд хамгийн эцсийн, баталгаатай аргыг санал болгож байна.
+
+Би доор README файлыг чинь код блок дотор (ямар нэгэн формат ороогүй цэвэр текстээр) бичээд өгье. Чи энэ блокны баруун дээд буланд байгаа "Copy code" товчийг дараад, шууд өөрийнхөө README.md файл руу "Paste" хийгээрэй.
+
+Энэ бол яг "Raw" текст тул ямар ч алдаа гарахгүй:
+
+Markdown
+# ⚡ DEEPSEEK-ULTRA (n0merc Edition)
+
+> **The Ultimate Self-Healing, Autonomous AI Terminal for Power Users.**
+
+DEEPSEEK-ULTRA is a professional, OS-integrated intelligence system designed by **n0merc**. It can research the live web, control your local file system, rewrite its own code to fix errors, and maintain a persistent neural memory.
+
+---
+
+## 📽️ Demo Video
+Check out the full capabilities of DeepSeek-Ultra in action:
+
+> ⚠️ **[INSERT YOUR VIDEO LINK HERE]**
+> *Watch how the AI heals its own code and performs deep web research in real-time.*
+
+---
+
+## 🛠️ How to Install (Step-by-Step)
+
+Follow these steps to get the system online:
+
+### 1. Install Python
+Ensure you have **Python 3.8** or higher installed. Check with:
+```bash
+python --version
+2. Install Dependencies
+Run this command to install required libraries:
+
+Bash
+pip install openai requests
+3. Obtain API Keys
+You will need хоёр keys to unlock full functionality:
+
+DeepSeek API Key: platform.deepseek.com
+
+Tavily Search API Key: tavily.com
+
+🚀 How to Run the System
+Navigate to your project folder and execute:
+
+python ultra.py
+The Startup Process:
+Neural Link: On the first run, it will prompt for your API keys.
+
+Persistent Memory: It automatically restores context from ultra_memory.json.
+🎮 Core Features
+🧠 1. Persistent Memory
+The AI learns and retains information across sessions.
+
+Usage: No special command needed.
+
+Reset: Type clear memory to wipe the neural cache.
+
+🛰️ 2. Deep Web Research (-web)
+Access live data from the internet (up to 2026).
+
+Command: -web <your query>
+
+Logic: Crawls multiple sources and synthesizes a real-time report.
+
+🤖 3. Auto-Pilot Mode (-autopilot)
+Perform autonomous "File Surgery" on entire projects.
+
+Command: -autopilot <folder_path>
+
+Workflow: Analyzes and updates multiple files simultaneously.
+
+🛠️ 4. Self-Healing Execution
+The AI detects and fixes its own coding errors.
+
+Action: Prompted as Execute with Healing? (y/n).
+
+Healing: Captures errors, re-thinks the logic, and fixes the code automatically.
+
+💻 5. Direct OS Access (!cmd)
+Run terminal commands directly.
+
+Command: !cmd <command> (e.g., !cmd ipconfig)
+📊 Command Reference
+mode          command                  Function
+search        -web <query>             Live Web intelligence
+Auto-Pilot    -autopilot <command>     Directory analysis & modification
+Shell         !cmd <command>           Direct OS shell execution
+Reset         clear memory             Deletes neural memory file
+Exit          exit                     Safely saves and closes the link.
+```
+
+⚠️ Safety & Disclaimer
+This tool is for educational and security research purposes only. Use it responsibly as it has direct OS-level access.
+
+Developed by: n0merc
+
