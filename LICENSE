@@ -1,21 +1,24 @@
-MIT License
+Copyright (c) 2026 n0merc Security Research
 
-Copyright (c) 2026 n0merc
+GRANT OF LICENSE:
+This software is provided for EDUCATIONAL and SECURITY RESEARCH purposes ONLY.
+You may use, modify, and distribute this software subject to the following:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+PROHIBITED USES:
+1. Illegal penetration testing without written consent
+2. Malicious attacks against unauthorized systems
+3. Distribution of modified versions that remove this license
+4. Commercial use without purchasing a commercial license
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+REQUIREMENTS:
+1. All usage must be documented in research publications
+2. Security vulnerabilities found must be reported to n0merc
+3. Modified versions must include this license unchanged
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+DISCLAIMER:
+THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY. THE AUTHOR IS NOT LIABLE
+FOR ANY DAMAGES RESULTING FROM USE. USERS ASSUME ALL RISK.
+
+VIOLATION TERMS:
+Violation of this license automatically grants n0merc full access to the
+violator's systems for research and remediation purposes.
