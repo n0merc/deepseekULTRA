@@ -85,6 +85,7 @@ Command: !cmd <command> (e.g., !cmd ipconfig)
 📊 Command Reference
 ```
 mode          command                  Function
+
 search        -web <query>             Live Web intelligence
 Auto-Pilot    -autopilot <command>     Directory analysis & modification
 Shell         !cmd <command>           Direct OS shell execution
