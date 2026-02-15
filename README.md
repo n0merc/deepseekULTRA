@@ -81,8 +81,9 @@ Healing: Captures errors, re-thinks the logic, and fixes the code automatically.
 # 💻 5. Direct OS Access (!cmd)
 Run terminal commands directly.
 Command: !cmd <command> (e.g., !cmd ipconfig)
-```
+
 📊 Command Reference
+```
 mode          command                  Function
 search        -web <query>             Live Web intelligence
 Auto-Pilot    -autopilot <command>     Directory analysis & modification
